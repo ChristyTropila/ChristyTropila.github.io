@@ -18,12 +18,13 @@ code {
 
 
 .g-card-image {
-  border-radius: 10px;
-  width: 340px;
+  border-radius: 15px;
+  margin-top: 100px;
+  width: 320px;
   height: 500px;
-  box-shadow: 0px 0px 3px 1px #ccc;
-}
+  box-shadow: 0px 0px 5px 1px #ccc;
 
+}
 
 .g-card-info {
   margin-top: 10px;
@@ -32,7 +33,7 @@ code {
 
 
 .g-card-title {
-  font-size: 24px;
+  font-size: 30px;
   margin: 0px;
 }
 
@@ -40,6 +41,10 @@ code {
 .g-card-sub-title {
   font-size: 16px;
   margin: 0px;
+}
+
+.cards{
+  margin-top:500px;
 }
 
 
